@@ -1,0 +1,2 @@
+gpiozero
+adafruit-circuitpython-mcp3xxx
